@@ -1,4 +1,4 @@
-# Console2048
+# Console2048 (circa 2017)
 Before you know how to use GUI, text is the best way to play games.
 
 ###### Playing the game:
